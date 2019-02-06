@@ -4,14 +4,16 @@ h1 {
 }
 
 h2 {
-  color: green;
+  color: cyan;
   text-align: center;
 }
+ p {
+   color: cyan;
+   text-align: center;
+   font-size: 20px;
+ }
 
-p {
-  color: green;
-  text-align: center;
-}
+
 
 body {
   background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1707/alonastep170700047/81573572-nachthemel-met-witte-sterren-op-zwarte-achtergrond-sjabloon-voor-donkere-astronomie-galaxy-sterrenhe.jpg?ver=6");
