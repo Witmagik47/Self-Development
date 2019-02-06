@@ -18,3 +18,10 @@ h2 {
 body {
   background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1707/alonastep170700047/81573572-nachthemel-met-witte-sterren-op-zwarte-achtergrond-sjabloon-voor-donkere-astronomie-galaxy-sterrenhe.jpg?ver=6");
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
